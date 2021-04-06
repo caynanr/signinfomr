@@ -111,8 +111,8 @@ input[type="checkbox"]:before {
   position: absolute;
   width: 25px;
   height: 25px;
-  top: -5px;
-  left: -5px;
+  top: -17px;
+  left: -15px;
   background-color: #e63939;
   border-radius: 50%;
 }
@@ -122,18 +122,18 @@ input[type="checkbox"]:checked:after {
   display: block;
   width: 5px;
   height: 10px;
-  border: solid white;
+  border: solid #fff;
   border-width: 0 3px 3px 0;
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
   position: absolute;
-  top: 0px;
-  left: 4px;
+  top: -12px;
+  left: -6px;
 }
 
 .form-remeber label {
-  margin-left: 0.5rem;
+  margin-left: 1rem;
   font-size: 1rem;
   font-weight: 400;
   color: #7c7c7c;
