@@ -1,6 +1,6 @@
 
 # signinform
-Página de Sign inspirada no projeto que eu vi aqui no github da Isadora intagram: @papodedev
+Página de Sign in inspirada no projeto que eu vi aqui no github da Isadora intagram: @papodedev
 
 Live: https://caynanr.github.io/signinform/
 
